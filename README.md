@@ -5,5 +5,5 @@ This is a repository to practice C# core concepts. You should tackle the differe
 - Variables/Conditions/Loops in the **Commons** folder
 - **Functions**
 - **Classes**
-- **Inheritence**
+- **Inheritance**
 - **Interfaces**
